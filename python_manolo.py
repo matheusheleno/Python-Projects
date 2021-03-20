@@ -71,3 +71,4 @@ while '1' or '2' or '3' == choice:
             continue
 
 #alteracao codigo teste #
+#alteração 2
